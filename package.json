@@ -1,0 +1,19 @@
+{
+  "name": "forecast",
+  "version": "1.0.0",
+  "description": "Forecast",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anil Konsal",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.3",
+    "express": "^4.14.0",
+    "forecastio": "^1.0.2",
+    "nodemon": "^1.11.0",
+    "zippity-do-dah": "0.0.2"
+  }
+}
